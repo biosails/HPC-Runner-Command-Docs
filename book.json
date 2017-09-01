@@ -1,3 +1,4 @@
 {
-    "plugins": [ "theme-faq" ]
+
+    "root": "./_docs"
 }
