@@ -26,4 +26,4 @@ HPC::Runner::Command is a set of libraries for scaffolding data analysis project
 submitting and executing jobs on an HPC cluster or workstation, and obsessively
 logging results.
 
-Please see the complete documentation at [https://jerowe.gitbooks.io/hpc-runner-command-docs/content/](https://jerowe.gitbooks.io/hpc-runner-command-docs/content/)
+Please see the complete documentation at [https://biosails.gitbooks.io/hpc-runner-command-docs/content/](https://biosails.gitbooks.io/hpc-runner-command-docs/content/)
