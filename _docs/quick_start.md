@@ -94,9 +94,9 @@ Within a job type we can declare dependencies on particular tasks.
 
 Each scheduler has its own set of variables. HPC::Runner::Command has a set of
 generalized variables for declaring types across templates. For more
-information please see [Job Scheduler Comparison](https://jerowe.gitbooks.io/hpc-runner-command-docs/content/job_submission/comparison.html) 
+information please see [Job Scheduler Comparison](https://biosails.gitbooks.io/hpc-runner-command-docs/content/job_submission/comparison.html) 
 
-Additionally, for workflows with a large number of tasks, please see [Considerations for Workflows with a Large Number of Tasks](https://jerowe.gitbooks.io/hpc-runner-command-docs/content/design_workflow.html#considerations-for-workflows-with-a-large-number-of-tasks) for information on how to group tasks together.
+Additionally, for workflows with a large number of tasks, please see [Considerations for Workflows with a Large Number of Tasks](https://biosails.gitbooks.io/hpc-runner-command-docs/content/design_workflow.html#considerations-for-workflows-with-a-large-number-of-tasks) for information on how to group tasks together.
 
 ### Workflow file
 

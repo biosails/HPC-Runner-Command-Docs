@@ -22,7 +22,7 @@ Here is a birds eye view of a simple example.
 
 ## Examine the output
 
-You can examine the [Full Jupyterhub Notebook](https://jerowe.gitbooks.io/hpc-runner-command-docs/content/examples/example_01_jupyterhub.html) notebook here, and it is included below.
+You can examine the [Full Jupyterhub Notebook](https://biosails.gitbooks.io/hpc-runner-command-docs/content/examples/example_01_jupyterhub.html) notebook here, and it is included below.
 
 
 
